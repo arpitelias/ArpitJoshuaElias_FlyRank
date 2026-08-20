@@ -107,3 +107,12 @@ I ran the final version 5 prompt on both ChatGPT and Claude.
 ---
 
 ## Final reusable template
+---
+
+## What I learned
+
+The layer that changed the most was the worked example. Before it, both models invented scenarios to illustrate their points. After it, everything was about my actual case, and one model built a whole conceptual distinction out of it.
+
+Including what I did *not* do was worth more than anything I claimed. Both models picked it up and turned it into advice about credibility, and both independently warned me that a single verifiable overclaim contaminates everything else I say.
+
+The thing I will carry forward is that structure and depth trade against each other, and staging is how you get both. A single global word limit forced the model to drop its best material. The same limit applied per stage kept it.
