@@ -1,19 +1,24 @@
-Framed Cases: Portfolio Copy
+# Framed Cases: Portfolio Copy
 
-Arpit Joshua Elias | General AI Fluency, Week 2
+**Arpit Joshua Elias** | General AI Fluency, Week 2
 
-Voice card: plain, specific, honest about limits.
+**Voice card:** plain, specific, honest about limits.
 
-Home
+---
 
-Claim: I catch bad data before it becomes a confident wrong answer.
+## Home
 
-Sub-line: Operations background, MSc in AI. I've seen what a model does with inputs that are quietly wrong: it produces a clean number and gives you no reason to doubt it.
+**Claim:** I catch bad data before it becomes a confident wrong answer.
 
-CTA: Book 15 minutes
+**Sub-line:** Operations background, MSc in AI. I've seen what a model does with inputs that are quietly wrong: it produces a clean number and gives you no reason to doubt it.
 
-Work
-An error that left no trace in the file
+**CTA:** Book 15 minutes
+
+---
+
+## Work
+
+### An error that left no trace in the file
 
 A year of sales records, around 400,000 rows, was sitting with me and due to go to the modelling team. An advertising spend decision was waiting on the output.
 
@@ -27,7 +32,7 @@ The forecast would have run cleanly on those numbers. It would have produced a c
 
 Afterwards a screen was built that flags missing payouts and shows percentage variance against expected. I tested it.
 
-What this case is and isn't
+### What this case is and isn't
 
 I found this error. I didn't design the reconciliation and I didn't build the screen. The check ran because someone requested it, not because a control required it.
 
@@ -35,9 +40,11 @@ That's the actual finding. A pipeline moving hundreds of thousands of records ha
 
 This was a gaming marketplace, not a regulated environment. What transfers is the shape of the problem, not the sector: high volume transactional data, money moving both directions, and a class of error that can't be detected inside the file it lives in.
 
-CTA: Book 15 minutes
+**CTA:** Book 15 minutes
 
-About
+---
+
+## About
 
 I spent my working life in operations before I studied AI. That's the wrong order on paper and the right one in practice. Operations is where data gets created, and where the errors start. Most people who can build a model have only ever seen data downstream, already cleaned, already in a warehouse.
 
@@ -45,7 +52,9 @@ I finished an MSc in Artificial Intelligence at National College of Ireland in 2
 
 That's the gap I work in.
 
-Contact
+---
+
+## Contact
 
 If any of this sounds like a problem you have, book fifteen minutes. No preparation needed.
 
@@ -53,4 +62,18 @@ Useful things to know before we talk: I'm based in Ireland and available from Se
 
 If a call is too early, email me and forward this to whoever it should reach.
 
-CTA: Book 15 minutes
+**CTA:** Book 15 minutes
+
+---
+
+## Before / after
+
+**Generic AI line:**
+
+> Results-driven data professional with a proven track record of leveraging cutting-edge AI solutions to drive business impact and deliver actionable insights across cross-functional teams.
+
+**My edit:**
+
+> I catch bad data before it becomes a confident wrong answer.
+
+The generic version has no subject doing anything. Nothing in it could be false, which means nothing in it could be true either. Every phrase would survive being pasted onto any other person's site. The edit names one failure mode, and someone who doesn't have that problem will correctly leave.
