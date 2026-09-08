@@ -39,7 +39,7 @@ Detour off Home, not a step on the path.
 
 ## Still need to gather
 
-- Booking link. Cal.com free tier, connected to Google Calendar.
+- Booking link: https://cal.com/arpitjoshuaelias/15min (done. 15 minute intro call, availability Tuesday to Thursday only.)
 - Screenshot: w03 notebook showing 1.000 with the leaked feature and 0.765 without.
 - Screenshot: the availability query output showing 36.7% GSC coverage.
 - A real photo of myself for About.
